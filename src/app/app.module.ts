@@ -11,4 +11,4 @@ import { BindingComponent } from './binding';
   imports: [BrowserModule, FormsModule],
   bootstrap: [BindingComponent]
 })
-export class AppModule { }
+export class AppModule {}
