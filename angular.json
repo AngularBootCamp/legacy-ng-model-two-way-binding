@@ -1,6 +1,5 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "defaultProject": "legacy-ng-model-two-way-binding",
   "newProjectRoot": "projects",
   "projects": {
     "legacy-ng-model-two-way-binding": {
