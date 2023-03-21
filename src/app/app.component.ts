@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './binding.html'
+  templateUrl: './app.component.html'
 })
-export class BindingComponent {
+export class AppComponent {
   name = 'John';
 }
